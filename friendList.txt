@@ -1,6 +1,6 @@
-Abdul Qaiyyum
-Abdul Qahhar
-Abdur Rahman
-Abdur Rahim
-Abdul Quddus
-Abdur Rashid
+Abdul Qaiyyum   010
+Abdul Qahhar    020
+Abdur Rahman    030
+Abdur Rahim     040
+Abdul Quddus    050
+Abdur Rashid    060
